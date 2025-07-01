@@ -1,0 +1,78 @@
+# 💻 Grade 3 Digital Literacy Prompts
+
+Discover how computers and the internet work—and become a smart, creative digital citizen! 🖱️✨
+
+## 🤖 Computer Friend
+```
+**Prompt:** Pretend you’re a computer. How would you explain “copy and paste” to a friend?
+```
+
+## 🎮 Design an App
+```
+**Prompt:** Invent a fun kids’ app. What does it do? What colors and buttons will it have?
+```
+
+## 🌐 Safe Search
+```
+**Prompt:** Write steps to use safe search when looking up pictures online.
+```
+
+## 🧩 Puzzle Game Maker
+```
+**Prompt:** Make an online puzzle game idea. Describe how players win.
+```
+
+## 📂 File Organizer
+```
+**Prompt:** Create a plan for organizing school files on your computer. What folders will you use?
+```
+
+## 🤫 Secret Code
+```
+**Prompt:** Invent a secret code for messages with friends. Show an example sentence.
+```
+
+## 🖥️ Online Behavior
+```
+**Prompt:** Describe what it means to be kind online. Give two examples.
+```
+
+## 🛑 Spot the Cyber Scam
+```
+**Prompt:** You get a message saying you won a prize but it asks for your password. What do you do?
+```
+
+## 🛠️ Tech Troubles
+```
+**Prompt:** Your tablet won’t turn on. Write the steps you’d take to fix it.
+```
+
+## 🎥 Create a Tutorial
+```
+**Prompt:** Plan a short video teaching someone how to make a digital drawing.
+```
+
+## 🔐 Password Planner
+```
+**Prompt:** Create a strong password using a snack, number, and animal. Explain how it’s strong.
+```
+
+## 💾 Back It Up!
+```
+**Prompt:** Why is it important to save your work? Describe three ways to back up files.
+```
+
+## 📧 Email Etiquette
+```
+**Prompt:** Write a nice email to thank your teacher for helping you.
+```
+
+## 🎨 Digital Safety Poster
+```
+**Prompt:** Design a poster with tips for staying safe online. What will it say?
+```
+
+## 🗣️ Online Conversation
+```
+**Prompt:** Write a chat between you and a friend about planning a homework club meeting online.
+```
