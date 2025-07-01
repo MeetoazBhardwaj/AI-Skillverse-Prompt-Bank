@@ -1,0 +1,78 @@
+# 🔬 Grade 3 Science Prompts
+
+Get ready to explore, experiment, and discover! These prompts make science exciting and hands-on. 🔍🧪
+
+## 🌱 Mystery Seed
+```
+**Prompt:** You find a seed in your pocket. Describe how it grows over a week and what it becomes.
+```
+
+## 🧊 Melting Experiment
+```
+**Prompt:** Put ice cubes in sun and shade. Predict which melts faster and why.
+```
+
+## 🦕 Dino Detective
+```
+**Prompt:** Travel back to dinosaur times. Describe what you see, hear, and feel.
+```
+
+## 🌧️ Rain Gauge
+```
+**Prompt:** Make a rain gauge with a cup. Track rain for 3 days and record the amounts.
+```
+
+## 🐛 Bug Journal
+```
+**Prompt:** Observe a bug in your yard. Draw and write about its body parts and behavior.
+```
+
+## 🔦 Shadow Tracker
+```
+**Prompt:** Trace your shadow in morning and afternoon. How did it change? Explain.
+```
+
+## 🍽️ Food Groups
+```
+**Prompt:** Draw a plate with healthy foods. Explain why each is good for you.
+```
+
+## 🌙 Moon Phases
+```
+**Prompt:** Watch the moon for 4 nights. Draw its shape each night and label the phase.
+```
+
+## ⚗️ Sink or Float
+```
+**Prompt:** Test 5 items in water. Which sink or float? Why do you think so?
+```
+
+## 🌡️ Temperature Check
+```
+**Prompt:** Check the temperature in sun and shade. What’s the difference? Explain.
+```
+
+## 🚗 Simple Machine
+```
+**Prompt:** Find a lever or pulley at home. Describe how it helps you do work.
+```
+
+## 🧬 Body System
+```
+**Prompt:** Choose a body part (heart, lungs, etc.). Draw and write what it does.
+```
+
+## 🌼 Plant Parts
+```
+**Prompt:** Draw a plant and label root, stem, leaf, flower. Say what each does.
+```
+
+## 🔥 Fire Safety
+```
+**Prompt:** Why do we need smoke alarms? Draw one in your home and explain.
+```
+
+## 🚰 Water Cycle Story
+```
+**Prompt:** Write about a water drop’s journey from ocean to cloud and back.
+```
