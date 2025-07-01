@@ -1,0 +1,78 @@
+# 🕵️‍♂️ Grade 3 Cyber Safety Prompts
+
+Let’s become Cyber Detectives! Spot scams, protect our info, and stay safe online with these fun prompts. 🛑🔍
+
+## 🔐 Password Protector
+```
+**Prompt:** Invent a strong password using a favorite snack, number, and animal. Explain why it’s safe!
+```
+
+## 🎁 Prize Scam Alert
+```
+**Prompt:** You get a message saying you won a prize but must share personal info. What should you do?
+```
+
+## 🛑 Stranger Chat
+```
+**Prompt:** A stranger messages you online asking questions. How will you handle it and why?
+```
+
+## 🔍 Spot the Phish
+```
+**Prompt:** Look at an email that says “click here now.” What clues tell you it’s a scam?
+```
+
+## 🏷️ Personal Info Hunt
+```
+**Prompt:** List personal info you should **never** share online—and explain why.
+```
+
+## 🖼️ Fake Friend?
+```
+**Prompt:** A friend request from someone you don’t know. How do you check if they’re real?
+```
+
+## 🌐 Safe Websites
+```
+**Prompt:** How do you know if a website is safe? List 3 signs to look for.
+```
+
+## 🛑 Screen Time Plan
+```
+**Prompt:** Make a daily plan to balance screen time and playtime. What are your goals?
+```
+
+## 📚 Digital Footprint
+```
+**Prompt:** Everything you post online stays. Describe two things you’d never share and why.
+```
+
+## 🛠️ Report It!
+```
+**Prompt:** If you see something unsafe online, who can you tell? Write a message asking for help.
+```
+
+## 🧰 App Permission Detective
+```
+**Prompt:** Your app asks for your location. Should you allow it? Write your decision and why.
+```
+
+## 📵 Public Wi-Fi Risks
+```
+**Prompt:** You’re using free Wi‑Fi at a café. Write two rules to stay safe.
+```
+
+## 📧 Email Safety Check
+```
+**Prompt:** An email asks for your school password. What do you do? Explain.
+```
+
+## 💻 Device Care
+```
+**Prompt:** List three ways to keep your tablet or computer safe and clean.
+```
+
+## 🎨 Cyber Safety Poster
+```
+**Prompt:** Design a poster with your top 5 cyber safety tips. What will it say and show?
+```
