@@ -1,66 +1,106 @@
-# English Prompts
+# 📘 Grade 3 English Prompts
 
-Click the 📋 icon to copy each prompt!
-
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-0'>**Prompt:** What if your pencil could talk? 🖊️
-
-*Write a conversation between you and your pencil about your school day!*</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-0').innerText)">📋</button>
-</div>
+> Fun, imaginative prompts to help students fall in love with English!  
+> 🖱️ Click the clipboard icon on the top-right of each prompt box to copy it.
 
 ---
 
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-1'>**Prompt:** Rewrite 'Little Red Riding Hood' — but in space! 🚀
+### ✏️ Prompt 1: If Your Pencil Could Talk
 
-*Make the wolf an alien and grandma a spaceship pilot!*</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-1').innerText)">📋</button>
-</div>
+```
+**Prompt:** What if your pencil could talk? 🖊️
 
----
-
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-2'>**Prompt:** You wake up with wings! 🪽
-
-*Describe your first day flying to school and how your friends react!*</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-2').innerText)">📋</button>
-</div>
+*Write a conversation between you and your pencil about your school day!*
+```
 
 ---
 
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-3'>**Prompt:** Interview your favorite storybook character 📚
+### 🚀 Prompt 2: Space Fairy Tale
 
-*Write a Q&A where you ask them 5 fun or silly questions!*</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-3').innerText)">📋</button>
-</div>
+```
+**Prompt:** Rewrite 'Little Red Riding Hood' — but in space! 🚀
 
----
-
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-4'>**Prompt:** The dictionary is losing words! 😱
-
-*Pick 3 of your favorite words and write a letter to save them!* </code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-4').innerText)">📋</button>
-</div>
+*Make the wolf an alien and grandma a spaceship pilot!*
+```
 
 ---
 
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-5'>**Prompt:** If your shadow had a secret life… 🕵️‍♂️
+### 🪽 Prompt 3: A Day With Wings
 
-*Describe what adventures your shadow goes on when you're not looking.*</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-5').innerText)">📋</button>
-</div>
+```
+**Prompt:** You wake up with wings! 🪽
+
+*Describe your first day flying to school and how your friends react!*
+```
 
 ---
 
-<div style='display: flex; justify-content: space-between; align-items: center;'>
-<pre><code id='prompt-6'>**Prompt:** You open a book and fall into the story! 📖🌀
+### 📚 Prompt 4: Interview Your Hero
 
-*What world are you in? What’s the first thing you do?*</code></pre>
-<button onclick="navigator.clipboard.writeText(document.getElementById('prompt-6').innerText)">📋</button>
-</div>
+```
+**Prompt:** Interview your favorite storybook character! 📚
+
+*Write a Q&A where you ask them 5 fun or silly questions!*
+```
+
+---
+
+### 😱 Prompt 5: Save the Words!
+
+```
+**Prompt:** The dictionary is losing words! 😱
+
+*Pick 3 of your favorite words and write a letter to save them!*
+```
+
+---
+
+### 🕵️ Prompt 6: Secret Life of Shadows
+
+```
+**Prompt:** If your shadow had a secret life… 🕵️‍♂️
+
+*Describe what adventures your shadow goes on when you're not looking.*
+```
+
+---
+
+### 📖 Prompt 7: Fall Into a Book
+
+```
+**Prompt:** You open a book and fall into the story! 📖🌀
+
+*What world are you in? What’s the first thing you do?*
+```
+
+---
+
+### 🧁 Prompt 8: Magical Lunchbox
+
+```
+**Prompt:** Your lunchbox grants a new power every day! 🍱✨
+
+*Today, it gave you super-speed. What happens next?*
+```
+
+---
+
+### 🧙‍♂️ Prompt 9: Class Wizard
+
+```
+**Prompt:** Your teacher turns into a wizard for one day! 🧙‍♀️
+
+*What magical lessons do you learn?*
+```
+
+---
+
+### 🎭 Prompt 10: The Drama Club Mystery
+
+```
+**Prompt:** A costume goes missing right before the school play! 🎭
+
+*Write a short mystery story solving the case.*
+```
 
 ---
